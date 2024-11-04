@@ -7,7 +7,7 @@
 #
 Name     : R-audio
 Version  : 0.1.11
-Release  : 1
+Release  : 2
 URL      : https://cran.r-project.org/src/contrib/audio_0.1-11.tar.gz
 Source0  : https://cran.r-project.org/src/contrib/audio_0.1-11.tar.gz
 Summary  : Audio Interface for R
